@@ -1,6 +1,5 @@
 ---
 title: "theme_msdr"
-author: "AH Uyekita"
 date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
