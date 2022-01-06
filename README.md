@@ -3,13 +3,11 @@
 # Mastering Software Development in R Specialization Capstone
 
 #### Tags
-* Author       : AH Uyekita
-* Date         : 21/fev/2019
+* Author       : AIM
+* Date         : 6/Jan/2021
 * Course       : Mastering Software Development in R Specialization Capstone
 * Project      : Capstone Project
     * COD      : MSDR
-    * Instructor: Roger D. Peng
-    * Instructor: Brooke Anderson
 
 #### Installation
 
@@ -17,7 +15,7 @@ You can use this package installing it by the use of [`devtools`][url_devtools] 
 
 ```
 # Downloading the package
-devtools::install_github("AndersonUyekita/JHU_MSDR_Capstone")
+devtools::install_github("Aimaghsoodi/MSDR")
 
 # Loading the library
 library(msdr)
@@ -27,15 +25,11 @@ library(msdr)
 
 #### Vignettes
 
-I have disclosed the principal Vignette in the RPubs.
-
-* <a href="http://rpubs.com/AndersonUyekita/vignette_mastering_software_development_in_r" target="_blank">MSDR Vignette</a>
+I have disclosed the principal Vignette in the GitHub as well
 
 #### Bookdown
 
 The Bookdown is a compendium of all functions of this package.
-
-* <a href="https://andersonuyekita.github.io/JHU_MSDR_Capstone/" target="_blank">MSDR Capstone Bookdown</a>
 
 ********************************************************************************
 
@@ -169,7 +163,3 @@ df_america %>%
 ```
 <img src="01-img/02.png"/>
 
-You can also find more examples in the [vignette][vignette_rpubs] or in the [Bookdown][bookdown_url].
-
-[vignette_rpubs]: http://rpubs.com/AndersonUyekita/vignette_mastering_software_development_in_r
-[bookdown_url]: https://andersonuyekita.github.io/JHU_MSDR_Capstone/
