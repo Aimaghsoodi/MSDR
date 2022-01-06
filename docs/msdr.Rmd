@@ -1,6 +1,5 @@
 ---
 title: "Mastering Software Development in R"
-author: "AH Uyekita"
 date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
